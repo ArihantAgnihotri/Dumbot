@@ -13,7 +13,7 @@ Commands used:
 import random
 from discord.ext import commands
 
-greetings = ["hi", "hola", "hello", "hey", "helloo", "hellooo", "g morining", "gmorning", "good morning", "morning",
+greetings = ["hi", "ola", "hello", "hey", "helloo", "hellooo", "g morining", "gmorning", "good morning", "morning",
              "good day", "good afternoon", "good evening", "greetings", "greeting", "good to see you",
              "its good seeing you", "how are you", "how're you", "how are you doing", "how ya doin'", "how ya doin",
              "how is everything", "how is everything going", "how's everything going", "how is you", "how's you",
