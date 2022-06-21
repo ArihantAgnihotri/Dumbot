@@ -60,9 +60,9 @@ class choice_help_cog(commands.Cog):
         rating = randint(1, 100)
         await ctx.channel.send(f"{ctx.author.mention} is {rating}% gay")
         if rating > 50:
-            await ctx.channel.send("Wy yo gey?")
+            await ctx.channel.send("🌈 A proud member of the LGBTIA+ community 🌈")
         if rating < 50:
-            await ctx.channel.send("Yo no gey")
+            await ctx.channel.send("🗿 Ya straight as hell beh 🗿")
 
 
 def setup(client):
