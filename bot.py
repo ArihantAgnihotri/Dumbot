@@ -44,7 +44,7 @@ Basic prototype of function command:
 
 @client.command(aliases=[''])
 async def _func_name(ctx):
-    await ctx.channel.send(f"{ctx.author.mention}\n MESSAGE HERE")
+    await ctx.channel.send(f"{ctx.author.mention}\n MESSAGE HERE !")
 '''
 
 
